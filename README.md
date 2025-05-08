@@ -1,11 +1,3 @@
-# luistronilo.github.io
-Portfolio
-
----
-layout: default
-title: Portafolio de Luis
----
-
 # 👨‍💻 Luis — Desarrollador Web & Técnico de Soporte IT
 
 ¡Bienvenido a mi portafolio! Actualmente trabajo como **Técnico de Soporte de Infraestructuras** en Henry Schein y también soy **autónomo**, desarrollando soluciones que combinan **aplicaciones web** con **dispositivos IoT y electrónica embebida**.
